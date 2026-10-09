@@ -1,15 +1,17 @@
-# Multimedijska tehnika – Projekt
+# Multimedia Technology – Project
 
-Cilj projekta bio je primijeniti različite multimedijske elemente u izradi jednostavne web stranice koja prezentira određenu temu kroz razne medijske formate.
+The goal of the project was to apply various multimedia elements in the development of a simple website that presents a specific topic through different media formats.
 
-## Korišteni medijski elementi
-- **Slike**: JPEG, PNG..
+## Multimedia Elements Used
+
+- **Images:** JPEG, PNG
 - **Video**
-- **Zvuk**
-- **Tekstualni sadržaj**
+- **Audio**
+- **Text Content**
 
-## Tehnologije
+## Technologies
+
 - **HTML**
 - **CSS**
-- **Multimedijalni formati**
+- **Multimedia Formats**
 
